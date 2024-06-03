@@ -1,0 +1,14 @@
+C:\Code\Window Programming\practice_1_2\practice_1_2\bin\Debug\net6.0\practice_1_2.exe
+C:\Code\Window Programming\practice_1_2\practice_1_2\bin\Debug\net6.0\practice_1_2.deps.json
+C:\Code\Window Programming\practice_1_2\practice_1_2\bin\Debug\net6.0\practice_1_2.runtimeconfig.json
+C:\Code\Window Programming\practice_1_2\practice_1_2\bin\Debug\net6.0\practice_1_2.dll
+C:\Code\Window Programming\practice_1_2\practice_1_2\bin\Debug\net6.0\practice_1_2.pdb
+C:\Code\Window Programming\practice_1_2\practice_1_2\obj\Debug\net6.0\practice_1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Window Programming\practice_1_2\practice_1_2\obj\Debug\net6.0\practice_1_2.AssemblyInfoInputs.cache
+C:\Code\Window Programming\practice_1_2\practice_1_2\obj\Debug\net6.0\practice_1_2.AssemblyInfo.cs
+C:\Code\Window Programming\practice_1_2\practice_1_2\obj\Debug\net6.0\practice_1_2.csproj.CoreCompileInputs.cache
+C:\Code\Window Programming\practice_1_2\practice_1_2\obj\Debug\net6.0\practice_1_2.dll
+C:\Code\Window Programming\practice_1_2\practice_1_2\obj\Debug\net6.0\refint\practice_1_2.dll
+C:\Code\Window Programming\practice_1_2\practice_1_2\obj\Debug\net6.0\practice_1_2.pdb
+C:\Code\Window Programming\practice_1_2\practice_1_2\obj\Debug\net6.0\practice_1_2.genruntimeconfig.cache
+C:\Code\Window Programming\practice_1_2\practice_1_2\obj\Debug\net6.0\ref\practice_1_2.dll

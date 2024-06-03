@@ -1,0 +1,12 @@
+C:\Code\Window Programming\hw8\practice_8\practice_8\bin\Debug\Database1.mdf
+C:\Code\Window Programming\hw8\practice_8\practice_8\bin\Debug\Database1_log.ldf
+C:\Code\Window Programming\hw8\practice_8\practice_8\bin\Debug\practice_8.exe.config
+C:\Code\Window Programming\hw8\practice_8\practice_8\bin\Debug\practice_8.exe
+C:\Code\Window Programming\hw8\practice_8\practice_8\bin\Debug\practice_8.pdb
+C:\Code\Window Programming\hw8\practice_8\practice_8\obj\Debug\practice_8.csproj.AssemblyReference.cache
+C:\Code\Window Programming\hw8\practice_8\practice_8\obj\Debug\practice_8.Form1.resources
+C:\Code\Window Programming\hw8\practice_8\practice_8\obj\Debug\practice_8.Properties.Resources.resources
+C:\Code\Window Programming\hw8\practice_8\practice_8\obj\Debug\practice_8.csproj.GenerateResource.cache
+C:\Code\Window Programming\hw8\practice_8\practice_8\obj\Debug\practice_8.csproj.CoreCompileInputs.cache
+C:\Code\Window Programming\hw8\practice_8\practice_8\obj\Debug\practice_8.exe
+C:\Code\Window Programming\hw8\practice_8\practice_8\obj\Debug\practice_8.pdb

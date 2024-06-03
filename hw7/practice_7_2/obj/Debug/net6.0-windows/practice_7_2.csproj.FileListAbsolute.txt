@@ -1,0 +1,17 @@
+C:\Code\Window Programming\hw7\practice_7_2\bin\Debug\net6.0-windows\practice_7_2.exe
+C:\Code\Window Programming\hw7\practice_7_2\bin\Debug\net6.0-windows\practice_7_2.deps.json
+C:\Code\Window Programming\hw7\practice_7_2\bin\Debug\net6.0-windows\practice_7_2.runtimeconfig.json
+C:\Code\Window Programming\hw7\practice_7_2\bin\Debug\net6.0-windows\practice_7_2.dll
+C:\Code\Window Programming\hw7\practice_7_2\bin\Debug\net6.0-windows\practice_7_2.pdb
+C:\Code\Window Programming\hw7\practice_7_2\obj\Debug\net6.0-windows\practice_7_2.csproj.GenerateResource.cache
+C:\Code\Window Programming\hw7\practice_7_2\obj\Debug\net6.0-windows\practice_7_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Window Programming\hw7\practice_7_2\obj\Debug\net6.0-windows\practice_7_2.AssemblyInfoInputs.cache
+C:\Code\Window Programming\hw7\practice_7_2\obj\Debug\net6.0-windows\practice_7_2.AssemblyInfo.cs
+C:\Code\Window Programming\hw7\practice_7_2\obj\Debug\net6.0-windows\practice_7_2.csproj.CoreCompileInputs.cache
+C:\Code\Window Programming\hw7\practice_7_2\obj\Debug\net6.0-windows\practice_7_2.dll
+C:\Code\Window Programming\hw7\practice_7_2\obj\Debug\net6.0-windows\refint\practice_7_2.dll
+C:\Code\Window Programming\hw7\practice_7_2\obj\Debug\net6.0-windows\practice_7_2.pdb
+C:\Code\Window Programming\hw7\practice_7_2\obj\Debug\net6.0-windows\practice_7_2.genruntimeconfig.cache
+C:\Code\Window Programming\hw7\practice_7_2\obj\Debug\net6.0-windows\ref\practice_7_2.dll
+C:\Code\Window Programming\hw7\practice_7_2\obj\Debug\net6.0-windows\practice_7_2.SubForm.resources
+C:\Code\Window Programming\hw7\practice_7_2\obj\Debug\net6.0-windows\practice_7_2.MainForm.resources
